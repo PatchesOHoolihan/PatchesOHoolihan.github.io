@@ -9,6 +9,7 @@ body {
   text-align: justify;
 }
 .container{
+  display: flex;
   background-color: #adaaa1;
   border-radius: 12px;
   margin: 20px auto;

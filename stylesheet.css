@@ -5,9 +5,7 @@ p {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 body {
   background-color: #cfc6ae;
 }
-.pageTitle{
-  text-align: justify;
-}
+
 .container{
   display: flex;
   background-color: #adaaa1;
@@ -15,4 +13,18 @@ body {
   margin: 20px auto;
   width: 70%;
   ;
+}
+footer {
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  font-size: 100%;
+}
+p {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  
+}
+.pageTitle{
+  text-align: justify;
 }

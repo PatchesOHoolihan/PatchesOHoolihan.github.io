@@ -41,7 +41,8 @@
   position: absolute;
   top: -25px;
   border: 25px solid var(--color1);
-  
+  object-fit: cover;
+
 }
 
 .bio__text {
